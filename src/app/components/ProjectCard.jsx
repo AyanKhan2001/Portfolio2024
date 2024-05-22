@@ -9,8 +9,10 @@ const ProjectCard = ({ imgUrl, title, description, previewUrl }) => {
       <div
         className="h-72 rounded-t-xl relative group"
         style={{
-          background: `url(${imgUrl})`,
-          backgroundSize: "cover",
+          backgroundImage: `url(${imgUrl})`,
+          backgroundSize: "contain",
+          backgroundPosition: "center",
+          backgroundRepeat: "no-repeat",
           position: "relative",
           overflow: "hidden",
         }}

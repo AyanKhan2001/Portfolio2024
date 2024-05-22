@@ -37,17 +37,17 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            Computer Science graduate skilled in mobile application development for iOS and Android using Flutter. Proficient in crafting dynamic web solutions with Next.js. My passion lies in creating seamless user experiences and translating ideas into efficient, elegant code. Continuously exploring innovative technologies to drive impactful digital solutions.
+          As a Computer Science graduate, I bring 1.5 years of experience working in a prop-fintech startup named JustHomz. I am skilled in mobile application development for iOS and Android using Flutter and proficient in crafting dynamic web solutions with Next.js. My passion lies in creating seamless user experiences and translating ideas into efficient, elegant code. Continuously exploring innovative technologies, I strive to drive impactful digital solutions.
           </p>
           <div>
             <Link
               href="mailto:khanayan147@gmail.com"
-              className="px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-200 text-white"
+              className="btn-gradient-hover px-6 inline-block py-3 w-full sm:w-fit rounded-full mr-4 bg-black text-white"
             >
               Hire Me
             </Link>
             <Link
-              href="https://drive.google.com/file/d/1tL2kvnODU7H_iPaq9I5P-umI0tB21npg/view?usp=sharing"
+              href="https://drive.google.com/file/d/1J62_0L147WH6CVwqV1MiNLkZUvot92He/view?usp=sharing"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
